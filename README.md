@@ -1,2 +1,2 @@
-# exceed
+# Exceed
 Exceed College
